@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ganesh Manchi 🤵</h1>
-<h3 align="center">System Engineer @TCS ✨ | Ex-SDE Intern @ZopSmart 🔥 | FullStack Developer (React|SpringBoot|Go) 🙋‍♂️ | 1700+ Rated @Leetcode 🏆 | Codechef 3⭐️ | CSE Graduate 💻 | SRKR'23 🎓</h3>
+<h3 align="center">System Engineer @TCS ✨ | Ex-SDE Intern @ZopSmart 🔥 | FullStack Developer (React | SpringBoot | Go) 🙋‍♂️ | 1700+ Rated @Leetcode 🏆 | Codechef 3⭐️ | CSE Graduate 💻 | SRKR'23 🎓</h3>
 
 <img align=right alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img alt="Ganesh" src=""> </p>
+<p align="left"> <img alt="Ganesh" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> </p>
 
 - 🔭 I’m currently working on **High Scale Systems**
 
 - 🌱 I’m currently learning **React, Spring Boot, Golang**
 
-- 🤝 I’m looking for help with [StartUpSync](https://github.com/orgs/GVSGRD/repositories)
+- 🤝 I’m looking for help with **StartUpSync**
 
 - 📫 How to reach me **ganeshmanchi123@gmail.com**
 
